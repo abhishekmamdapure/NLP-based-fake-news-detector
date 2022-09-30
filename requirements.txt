@@ -7,6 +7,6 @@ Werkzeug==0.15.5
 scikit_learn==0.22.1
 matplotlib>=1.4.3
 pandas>=0.19
-joblib==0.14.1
+joblib==1.2.0
 Pillow==7.1.2
 streamlit==0.61.0
